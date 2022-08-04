@@ -1,1 +1,1 @@
-# Person-Re-Identification-via-Deep-Learning
+# Person Re-Identification via Deep Learning
